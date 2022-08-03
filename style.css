@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: orangered;
+}
+
+#diet-color {
+    color: gray;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 25px;
+    color: white;
+    background-image: linear-gradient(orangered, tomato);
+    font-weight: 700;
+}
+
+.half-width {
+    width: 50%;
+    padding-right: 10px;
+}
+
+.half-width img {
+    width: 100%;
+
+}
+
+.flexible {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+}
